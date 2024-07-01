@@ -110,7 +110,7 @@ with col2:
     sikkim_parliament_contribution_chart = create_state_contribution_chart(sikkim_parliament_results, "Sikkim")
     st.plotly_chart(sikkim_parliament_contribution_chart)
 
-# Additional part for the contribution of each state to overall parliament results
+
 
 # Dictionary of file paths for each state's parliament election results
 state_files = {
